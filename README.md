@@ -1,10 +1,11 @@
 # quake
 
-A new Flutter project.
+Challenge #2 of Flutter & Dart The Complete Flutter App Development Course.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is challenge #2 of Flutter Course by Paulo Dichone but with RefreshIndicator and some
+tweaks.
 
 A few resources to get you started if this is your first Flutter project:
 
